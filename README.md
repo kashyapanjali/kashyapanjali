@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anjali Kashyap
 
-### 💻 Software Engineer | React Native | Full-Stack Development
+### 💻 Software Developer | React Native | Full-Stack Development
 
 I’m a Computer Science Engineer passionate about building practical, scalable, and user-focused applications. I enjoy solving real-world problems, exploring emerging technologies, and continuously improving my development skills.
 
