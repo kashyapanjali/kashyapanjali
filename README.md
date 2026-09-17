@@ -64,19 +64,6 @@ An AI-powered virtual doctor assistant and food detection application built duri
 
 **Tech:** Python, Streamlit, Generative AI, Docker
 
-### 🛍️ ShopMeasure
-
-A single-page application focused on product measurement, responsive design, and a user-friendly interface.
-
-**Tech:** HTML, CSS, JavaScript
-
-### 🌦️ Weather App
-
-A weather application that fetches and displays real-time weather information through API integration.
-
-**Tech:** HTML, CSS, JavaScript, REST APIs
-
----
 
 ## 📊 GitHub Stats
 
